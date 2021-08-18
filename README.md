@@ -23,7 +23,7 @@ Here are some ideas to get you started:
           <BR>
           <p>🌱I’m currently learning Angular,Nodejs .</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
-          <p>💬 Ask me about Flutter Or Dart.</p>
+          <!-- <p>💬 Ask me about Flutter Or Dart.</p> -->
           <p>❤️  In Love with : Flutter & Dart</p>
           <p>📫How to reach me.</p>
           <a href="https://github.com/1Mathias">
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
      </div>
 <BR><BR><BR>     
 </section>
-<h3 align="left">Some of my Projects:</h3>
-     <table>
+<!--<h3 align="left">Some of my Projects:</h3>
+      <table>
           <tr>
                <th><a href="https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter">action_process_text Flutter Plugin</a></th>
                <th><a href="https://github.com/coder-with-a-bushido/slangonary">Slangonary (App)</th>
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
                <td><img src="https://imgur.com/1VO93Lv.gif" height=444 width=250></td>
           </tr>
      </table>
+ -->
 
-
-<h3 align="left">You can more about me on my Website  <a href="mathiasabdissa.me">mathiasabdissa.me</a></h3>
+<h3 align="left">You can more about me on my Website  <a href="http://mathiasabdissa.me/">mathiasabdissa.me</a></h3>
 
 
 
