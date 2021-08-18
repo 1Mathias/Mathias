@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <section>
      <div>
-     <img src="https://avatars.githubusercontent.com/u/43569821?v=4" style="max-width:60%" align="right">
+     <img width="200" height="200" src="https://avatars.githubusercontent.com/u/43569821?v=4" style="max-width:60%" align="right">
      </div>
      <div>
           <BR>
