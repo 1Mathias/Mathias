@@ -21,18 +21,18 @@ Here are some ideas to get you started:
      </div>
      <div>
           <BR>
-          <p>🌱I’m currently learning Nodejs.</p>
+          <p>🌱I’m currently learning Angular,Nodejs .</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
-          <p>💬Ask me about Flutter Or Dart.</p>
-          <p>❤️In Love with : Flutter & Dart</p>
+          <p>💬 Ask me about Flutter Or Dart.</p>
+          <p>❤️  In Love with : Flutter & Dart</p>
           <p>📫How to reach me.</p>
-          <a href="https://github.com/coder-with-a-bushido">
+          <a href="https://github.com/1Mathias">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>
           </a>
-          <a href="https://www.linkedin.com/in/karthikeyanssvk/">
+          <a href="https://www.linkedin.com/in/mathias-a-mengesha-098359173/">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
           </a>
-          <a href="https://twitter.com/_KarthikeyanS_">
+          <a href="https://twitter.com/Mathh_ias">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
           </a>
      </div>
