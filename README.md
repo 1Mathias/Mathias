@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 -->
-## Hello, I'm Mathias A.! :wave:     <img src="https://komarev.com/ghpvc/?username=coder-with-a-bushido&label=Profile%20views&color=0e75b6&style=flat" alt="coder-with-a-bushido" /> </p>
+## Hello, I'm Mathias! :wave:     <img src="https://komarev.com/ghpvc/?username=coder-with-a-bushido&label=Profile%20views&color=0e75b6&style=flat" alt="coder-with-a-bushido" /> </p>
 
 <section>
      <div>
