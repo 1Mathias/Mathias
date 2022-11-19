@@ -21,11 +21,11 @@ Here are some ideas to get you started:
      </div>
      <div>
           <BR>
-          <p>🌱I’m currently learning Angular,Nodejs .</p>
+          <p>🌱I’m currently working on Angular,React,Nodejs.</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
           <!-- <p>💬 Ask me about Flutter Or Dart.</p> -->
           <p>❤️  In Love with : Flutter & Dart</p>
-          <p>📫How to reach me.</p>
+          <p> 📫 How to reach me.</p>
           <a href="https://github.com/1Mathias">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>
           </a>
